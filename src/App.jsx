@@ -1,9 +1,11 @@
+import MovingDot from "./MovingDot";
 import Card from "./Card";
 
-export default function App(){
+export default function App() {
     return (
         <>
-            <Card/>
+            <Card />
+            <MovingDot />
         </>
 
     )
