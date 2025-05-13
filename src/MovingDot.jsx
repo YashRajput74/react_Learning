@@ -20,8 +20,8 @@ export default function MovingDot() {
                     color: "white",
                     position: "absolute",
                     transform: `translate(${position.x}px, ${position.y}px)`,
-                    top: 100,
-                    left: 100,
+                    top: -335,
+                    left: -523,
                     border: "5px solid white",
                     borderRadius: "50%"
                 }
