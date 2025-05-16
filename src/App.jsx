@@ -3,6 +3,7 @@ import Card from "./Card";
 import MakeList from "./MakeList";
 import ArtistList from "./ArtistList";
 import Form from "./Form";
+import RedundantDorm from "./RedundantDorm";
 
 export default function App() {
     return (
@@ -12,6 +13,7 @@ export default function App() {
             <MakeList />
             <ArtistList />
             <Form />
+            <RedundantDorm />
         </>
 
     )
