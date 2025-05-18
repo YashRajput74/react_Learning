@@ -5,6 +5,7 @@ import ArtistList from "./ArtistList";
 import Form from "./Form";
 import RedundantDorm from "./RedundantDorm";
 import './App.css'
+import ScoreGame from "./ScoreGame";
 
 export default function App() {
     return (
@@ -15,6 +16,7 @@ export default function App() {
             <ArtistList />
             <Form />
             <RedundantDorm />
+            <ScoreGame />
         </>
 
     )
