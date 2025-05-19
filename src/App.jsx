@@ -6,6 +6,7 @@ import Form from "./Form";
 import RedundantDorm from "./RedundantDorm";
 import './App.css'
 import ScoreGame from "./ScoreGame";
+import TaskApp from "./TaskApp";
 
 export default function App() {
     return (
@@ -17,6 +18,7 @@ export default function App() {
             <Form />
             <RedundantDorm />
             <ScoreGame />
+            <TaskApp />
         </>
 
     )
