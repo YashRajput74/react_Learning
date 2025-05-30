@@ -7,6 +7,7 @@ import RedundantDorm from "./RedundantDorm";
 import './App.css'
 import ScoreGame from "./ScoreGame";
 import TaskApp from "./TaskApp";
+import StopWatch from "./StopWatch";
 
 export default function App() {
     return (
@@ -19,6 +20,7 @@ export default function App() {
             <RedundantDorm />
             <ScoreGame />
             <TaskApp />
+            <StopWatch />
         </>
 
     )
