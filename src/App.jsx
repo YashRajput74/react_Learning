@@ -9,6 +9,7 @@ import ScoreGame from "./ScoreGame";
 import TaskApp from "./TaskApp";
 import StopWatch from "./StopWatch";
 import FormUseEffect from "./FormUseEffect";
+import CounterUseEffect from "./CounterUseEffect";
 
 export default function App() {
     return (
@@ -23,6 +24,7 @@ export default function App() {
             <TaskApp />
             <StopWatch />
             <FormUseEffect />
+            <CounterUseEffect />
         </>
 
     )
